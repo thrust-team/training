@@ -1,4 +1,4 @@
-# Benvenuto nel team!
+﻿# Benvenuto nel team!
 Adesso verrai inondato di informazioni per quel che riguarda come si fanno le cose qui.
 
 ## Telegram
@@ -13,19 +13,17 @@ GitHub è il sito che impieghiamo per salvare i repositori (le cartelle) su cui 
 Crea un account github e scrivi il tuo nick ad uno degli admin per farti aggiungere all'[organizzazione github del progetto thrust](https://github.com/thrust-team).
 
 ### Installa github desktop
-_da inserire_
-
+- Scarica l'ultima versione di [Github Desktop](https://desktop.github.com/) e installalo.
+- Accedi con l'account github con il quale ti sei registrato
+- Aggiungi la repo `training` alle tue cartelle locali andando su `Add` in alto a sinistra
+  ![](img/github-desktop/add-repo.png)
+- poi `Clone repository`![](img/github-desktop/clone-training-repo.png), dovresti trovare tutte le repo di `thrust-team`. Seleziona `thrust-team/training`, scegli la cartella locale dove salvare la cartella e premi `Clone`.
+- Ora hai la tua copia locale della cartella sincronizzata con quella condivisa.
+- Copia il file `COPYME.md` e rinominalo con  il tuo cognome e nome nel formato`cognome-nome.md`. Aprilo (con blocco note) e inserisci i dati richiesti.
+- 
 ### Il tuo primo commit
 _da inserire_
 
-### Il tuo primo issue
-_da inserire_
-
-### Il tuo primo documento
-_da inserire_
-
-### Pro mode
-_da inserire_
 
 ## Markdown
 Addio Word crudele! A parte gli scherzi, gran parte dei documenti su github sono scritti in un formato cosiddetto MarkDown. Questo è un formato di testo che permette di formattare il documento in modo semplice e con file di solo testo. L'utilità è che file di questo tipo possono essere convertiti in ogni formato (word, pdf, latex, html) con estrema semplicità. Con questo formato puoi anche formattare i messaggi su Telegram e Discord.
@@ -35,3 +33,13 @@ I documenti del progetto vengono pubblicati compilandoli con LaTex. Lo strumento
 
 ## Drive
 Per tutto il resto c'è una [cartella drive](https://drive.google.com/drive/folders/1e2mxLXh0za5J9UVuKT-l3MwX0Z3ZBW0D) con file sparsi che non dovrebbe essere usata per un lungo tempo. Può andare bene per compilare tabelle in collaborazione online (google fogli) o per preparare presentazioni, o bozze di file di testo. Viene inoltre usata per condividere file di grosse dimensioni che è meglio non caricare su GitHub.
+
+## Altro
+### Il tuo primo issue
+_da inserire_
+
+### Il tuo primo documento
+_da inserire_
+
+### Pro mode
+_da inserire_
