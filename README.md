@@ -59,6 +59,8 @@ LaTeX è un linguaggio di programmazione tipografica, che permette la stesura di
 
 Purtroppo il Markdown di GitHub non supporta direttamente l'inserimento di formule matematiche scritte in LaTeX.
 
+Per fare un corso accelerato posso consigliare il video di [Enkk](https://www.youtube.com/watch?v=e8vxRjpf95s).
+
 ### Overleaf
 Lo strumento più comodo è un sito chiamato OverLeaf che permette di modificare in simultanea con altri utenti i file sorgenti dei documenti. Non solo, permette anche di compilare un'anteprima, tutto all'interno del browser. La grafica di un documento LaTeX è ormai nota e simbolo di "serietà accademica". L'intera repo `thrust-team/latex` è collegata ad un progetto overleaf, in modo da avere tutti i documenti ufficiali e i sorgenti a portata di mano nello stesso progetto.
 - Registra un account su Overleaf e prova ad aprire il link che trovi sul `README.md`  di `thrust-team/latex`. Apri uno dei file `main.tex` nel navigatore di cartelle a sinistra e premi `Compila` in alto a destra. Scarica il pdf premendo l'apposito tasto e mandamelo in privato su Telegram.
