@@ -34,8 +34,8 @@ Crea un account github e scrivi il tuo nick ad uno degli admin per farti aggiung
 - Se riapri Github Desktop troverai una vista simile a quella in figura ![](img/github-desktop/first-commit-pre-commit.png).
 - In alto a sinistra `Current repository` deve essere `training`. Il ramo `Current branch` deve essere quello principale `main`, e la cartella deve essere sincronizzata (`Fetch origin` non indica modifiche da dover scaricare). 
 - A sinistra si trova la lista dei cambiamenti locali effettuati rispetto all'ultimo checkpoint della cartella. In questo caso dovresti trovare soltanto il file con il tuo cognome e nome. A destra un'anteprima del contenuto del file.
-- Esegui il commit (sposta il checkpoint allo stato attuale della cartella) premendo `Commit to main` ![](C:\git\training\img\github-desktop\first-commit-commit.png)
-- Ora il tuo checkpoint locale è più "avanti" rispetto allo stato della cartella condiviso. Per portare la tua cartella locale allo stato condiviso devi eseguire il `push` della cartella locale alla cartella condivisa. ![](C:\git\training\img\github-desktop\first-commit-push.png)
+- Esegui il commit (sposta il checkpoint allo stato attuale della cartella) premendo `Commit to main` ![](img\github-desktop\first-commit-commit.png)
+- Ora il tuo checkpoint locale è più "avanti" rispetto allo stato della cartella condiviso. Per portare la tua cartella locale allo stato condiviso devi eseguire il `push` della cartella locale alla cartella condivisa. ![](img\github-desktop\first-commit-push.png)
 - Congratulazioni! Hai eseguito il tuo primo commit e hai messo la tua prima "firma" a una modifica al progetto. Se visiti la [cartella dei primi commit](https://github.com/thrust-team/training/tree/main/first-commits) troverai quella con il tuo nome e nella [storia della cartella](https://github.com/thrust-team/training/commits/main/first-commits) vedrai il messaggio che ha archiviato la modifica e l'autore della stessa.
 
 ### Perché Github? O `git` in generale?
