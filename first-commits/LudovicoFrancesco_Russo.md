@@ -1,4 +1,4 @@
 # Member form
-- Cognome:
-- Nome:
-- Matricola:
+- Cognome: Russo
+- Nome: Ludovico Francesco 
+- Matricola: 2008609
