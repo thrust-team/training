@@ -12,6 +12,14 @@ Ti consiglio di rendere visibili le estensioni dei file noti. Per farlo:
 - Seleziona la scheda `Visualizza` del popup che si apre
 - Togli la spunta alla voce `Nascondi estensioni per i tipi di file noti`
 
+## Hai Mac?
+
+Per rendere visibili le estensioni dei file da Mac:
+
+- Apri una nuova finestra di Finder
+- Dalla Menu Bar (in alto a SX) scegli Finder > Preferenze, quindi fai clic su Avanzate.
+- Seleziona la voce “Mostra tutte le estensioni dei nomi documenti”
+
 ## Telegram
 Nel gruppo Telegram vengono inviati messaggi per l'organizzazione di riunioni e comunicazioni al volo. Se non sei dentro al gruppo entra nel [gruppo reclute](t.me/thrustrecruits) e uno degli admin ti sposterà nel gruppo principale.
 
