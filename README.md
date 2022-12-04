@@ -67,12 +67,12 @@ LaTeX è un linguaggio di programmazione tipografica, che permette la stesura di
 
 Purtroppo il Markdown di GitHub non supporta direttamente l'inserimento di formule matematiche scritte in LaTeX.
 
-Per fare un corso accelerato posso consigliare il video di [Enkk](https://www.youtube.com/watch?v=e8vxRjpf95s).
+Per fare un corso accelerato posso consigliare il video di [Enkk](https://www.youtube.com/watch?v=e8vxRjpf95s). Comuque prevediamo di fare un training in data 10/12/2022 con Matteo Fiorio al riguardo.
 
 ### Overleaf
 Lo strumento più comodo è un sito chiamato OverLeaf che permette di modificare in simultanea con altri utenti i file sorgenti dei documenti. Non solo, permette anche di compilare un'anteprima, tutto all'interno del browser. La grafica di un documento LaTeX è ormai nota e simbolo di "serietà accademica". L'intera repo `thrust-team/latex` è collegata ad un progetto overleaf, in modo da avere tutti i documenti ufficiali e i sorgenti a portata di mano nello stesso progetto.
 - Registra un account su Overleaf e prova ad aprire il link che trovi sul `README.md`  di `thrust-team/latex`. Apri uno dei file `main.tex` nel navigatore di cartelle a sinistra e premi `Compila` in alto a destra. Scarica il pdf premendo l'apposito tasto e mandamelo in privato su Telegram.
-- Esci dal progetto in corso e torna alla schermata principale di Overleaf. Crea un nuovo documento con il documento di esempio e modifica tutto ciò che vuoi. Mi è sufficiente che inserisci il tuo nome come autore, e che mi mandi, invece del pdf, il file `.tex` sorgente, questo nel gruppo Recruits di Telegram.
+- Esci dal progetto in corso e torna alla schermata principale di Overleaf. Crea un nuovo documento con il documento di esempio e modifica tutto ciò che vuoi. Mi è sufficiente che inserisci il tuo nome come autore, e che mi mandi, invece del pdf, il file `.tex` sorgente, questo nel gruppo THRUST Team di Telegram.
 
 ## Drive
 Per tutto il resto c'è una [cartella drive](https://drive.google.com/drive/folders/1e2mxLXh0za5J9UVuKT-l3MwX0Z3ZBW0D) con file sparsi che non dovrebbe essere usata per un lungo tempo. Può andare bene per compilare tabelle in collaborazione online (google fogli) o per preparare presentazioni, o bozze di file di testo. Viene inoltre usata per condividere file di grosse dimensioni che è meglio non caricare su GitHub.
