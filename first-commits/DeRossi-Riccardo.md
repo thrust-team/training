@@ -1,4 +1,4 @@
 # Memeber form
-- COGNOME: DE ROSSI
-- NOME: RICCARDO
-- NUMERO MATRICOLA: 2002438
+- Cognome: De Rossi
+- Nome: Riccardo
+- Numero matricola: 2002438
