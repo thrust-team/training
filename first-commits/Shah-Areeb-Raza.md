@@ -1,4 +1,4 @@
 # Member form
-- Cognome: SHAH
-- Nome: AREEB RAZA 
+- Cognome: Shah
+- Nome: Areeb Raza 
 - Matricola: 2053765
