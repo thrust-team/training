@@ -80,7 +80,7 @@ Di seguito alcuni moduli video che illustrano le operazioni da svolgere prima, d
 
 Ogni team leader deve controllare che il lavoro dei membri del proprio team venga svolto secondo le direttive esposte in precedenza, inoltre è necessario:
 * Saper [creare una nuova task](https://drive.google.com/file/d/1lJa2zu6I5O9jD2sf7HOWwMhvytTBmnZ7/view?usp=drive_link) tramite le Issue.
-* [Controllare e approvare una Pull Request]() al termine di una task dei membri del proprio team.
+* [Controllare e approvare una Pull Request](https://drive.google.com/file/d/1b_myYUWVMiuG1BcriJBtHqQuIPssfd_p/view?usp=drive_link) al termine di una task dei membri del proprio team.
 
 ## Markdown
 Addio Word crudele! Gran parte dei documenti su GitHub sono scritti in un formato chiamato MarkDown. Questo è un formato di testo che permette di formattare il documento in modo semplice e con file di solo testo. L'utilità è che file di questo tipo possono essere convertiti in ogni formato (word, pdf, latex, html) con estrema semplicità (con `pandoc` o altri). Con questo formato puoi anche formattare i messaggi su Telegram e Discord.
