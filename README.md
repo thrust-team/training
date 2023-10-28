@@ -56,6 +56,31 @@ Github è la piattaforma più diffusa di progetti basati su `git`, e porta con s
 
 L'interfaccia grafica di Github Desktop permette anche ai non smanettoni di usare `git` senza dover impiegare linea di comando.
 
+Alcuni video e articoli consigliati per capire a fondo il funzionamento di `git` e `Github`:
+
+### THRUST GitHub Workflow
+
+All'interno del nostro team è stato implementato un workflow di lavoro ad hoc per consentire una corretta gestione delle repository, delle task e delle relazioni finali di progetto. Di seguito del materiale utile per comprenderlo e utilizzarlo.
+Il tutto è esposto in modo dettagliato in questo report [M0001_00_Github_Workflow](https://github.com/thrust-team/archive/blob/main/internal/misc/M0001_00_Github_Workflow.pdf).
+
+#### Installazione e setup iniziale.
+
+Prima di cominciare a lavorare in THRUST bisogna procedere all'installazione e setup di tutti i programmi necessari al funzionamento del workflow. I passaggi dettagliati sono alla sezione 2 di [questo report](https://github.com/thrust-team/archive/blob/main/internal/misc/M0001_00_Github_Workflow.pdf), in alternativa si può seguire [questo video](https://drive.google.com/file/d/1mZrKZ-boYE2Xsgr0Juaouq72hmEd7PSo/view?usp=drive_link).
+
+#### Svolgimento di una task
+
+Ogni cosa all'interno di THRUST è collegata ad una specifica task, è bene quindi saperle interpretare, svolgere e presentarne il report finale nel modo più efficiente possibile.
+E'essenziale tenere traccia di tutto il lavoro svolto al fine di mantenere uno storico del progetto ed evitare di ripetere errori fatti da altri in passato, un corretto metodo di lavoro è inoltre essenziale per consentire ai responsabili di team di validare il materiale prodotto.
+Di seguito alcuni moduli video che illustrano le operazioni da svolgere prima, durante e dopo una task, un analisi più approfondita la si può trovare alle sezioni 4,5 e 6 del solito report [M0001_00_Github_Workflow](https://github.com/thrust-team/archive/blob/main/internal/misc/M0001_00_Github_Workflow.pdf). 
+* [Struttura delle repository](https://drive.google.com/file/d/1qpZN_D94JDk2d_sf3RiyRQzuZFMKLc3x/view?usp=drive_link): per capire dove salvare il materiale.
+* [Svolgimento di una task](https://drive.google.com/file/d/11XGg282QLc7D5tQtjy_R2REdIwpKViHc/view?usp=drive_link): in modo da saper gestire correttamente il proprio lavoro.
+* [Meeting Report](https://drive.google.com/file/d/1Kw0VdelbnzrEqqWk_sAq-7cPawj4yCtX/view?usp=drive_link): per documentare le riunioni svolte.
+* [Presentazione di una Pull Request](https://drive.google.com/file/d/1CR211Wkzdht_m7FqGxIHYiqysCM6t_nm/view?usp=drive_link): per far approvare il proprio lavoro al termine di una task
+#### Per i team leader
+
+Ogni team leader deve controllare che il lavoro dei membri del proprio team venga svolto secondo le direttive esposte in precedenza, inoltre è necessario:
+* Saper [creare una nuova task](https://drive.google.com/file/d/1lJa2zu6I5O9jD2sf7HOWwMhvytTBmnZ7/view?usp=drive_link) tramite le Issue.
+* [Controllare e approvare una Pull Request]() al termine di una task dei membri del proprio team.
 
 ## Markdown
 Addio Word crudele! Gran parte dei documenti su GitHub sono scritti in un formato chiamato MarkDown. Questo è un formato di testo che permette di formattare il documento in modo semplice e con file di solo testo. L'utilità è che file di questo tipo possono essere convertiti in ogni formato (word, pdf, latex, html) con estrema semplicità (con `pandoc` o altri). Con questo formato puoi anche formattare i messaggi su Telegram e Discord.
